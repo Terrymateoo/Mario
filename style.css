@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.big_image {
+    width: 100%;
+}
+
+.heading button {
+    float: right;
+    border-radius: 10vw;
+    background-color: darkblue;
+}
+
+#PlayBtn, #Stats {
+    font-size: 20px;
+    background-color: red;
+    border-radius: 0.7vw;
+    padding: 0.5vw;
+    width: 100px;
+    color: white;
+}
+
+h4 {
+    margin: 0px;
+    line-height: 2;
+    bottom: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
